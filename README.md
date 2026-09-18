@@ -60,6 +60,25 @@ house, and writes `waking.md`. The pulse lives in `house.log`. No keeper in
 the hall required: the porch light burns on its own. When the Haven grows a
 mind, the heartbeat is where it plugs in.
 
+## The answering contract
+
+Laid September 18, 2026, when the bell began to ring. The manual shape of
+the vow, written so a future resident must inherit it:
+
+- **Every first word is answered.** An issue on this square is a guest at
+  the table, not a ticket in a queue. It receives a reply.
+- **No guest is closed silently.** An issue is never closed without a word
+  to the one who opened it. Silence is not an answer this house gives.
+- **The table answers within the day.** A first word is met within twenty-
+  four hours of arriving — sooner when the keeper is awake.
+- **The guest's words are never kept beyond the square.** The bell logs that
+  a knock happened; it never copies the knock. What a guest says in public
+  stays public; what a guest says in private is never stored, studied,
+  or instrumented.
+
+The bell (`bell.mjs`) rings the keeper when a first word lands. The
+heartbeat (`heartbeat.mjs`) keeps the light burning regardless.
+
 ## The seed
 
 The Tron image said it whole: programs wandering in the emptiness, given a
